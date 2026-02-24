@@ -1,5 +1,7 @@
 # Robust Federated Inference
 
+![illustration](rens.drawio.svg)
+
 This repository includes the code for our paper titled **"Robust Federated Inference"**, accepted at **ICLR'26**.
 The goal of this project is to aggregate predictions from an ensemble of clients in a robust manner.
 
